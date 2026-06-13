@@ -10,4 +10,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AkshayaRatha/Leetcode/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
