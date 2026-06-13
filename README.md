@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
 ## Trie
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
