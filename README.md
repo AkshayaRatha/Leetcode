@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
 ## Trie
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
