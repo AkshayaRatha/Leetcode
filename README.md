@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/AkshayaRatha/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/AkshayaRatha/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
@@ -53,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
