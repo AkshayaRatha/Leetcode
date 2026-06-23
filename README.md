@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/AkshayaRatha/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
