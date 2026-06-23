@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
+| [0867-transpose-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0867-transpose-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
