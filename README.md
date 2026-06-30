@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AkshayaRatha/Leetcode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/AkshayaRatha/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AkshayaRatha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshayaRatha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/AkshayaRatha/Leetcode/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AkshayaRatha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshayaRatha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AkshayaRatha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
