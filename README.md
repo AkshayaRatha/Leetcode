@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/AkshayaRatha/Leetcode/tree/master/0120-triangle) |
+| [0137-single-number-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -110,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
