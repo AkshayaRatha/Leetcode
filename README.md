@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/AkshayaRatha/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AkshayaRatha/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
