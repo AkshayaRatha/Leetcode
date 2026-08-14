@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/AkshayaRatha/Leetcode/tree/master/0279-perfect-squares) |
+| [0396-rotate-function](https://github.com/AkshayaRatha/Leetcode/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshayaRatha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshayaRatha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/AkshayaRatha/Leetcode/tree/master/0396-rotate-function) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshayaRatha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/AkshayaRatha/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshayaRatha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AkshayaRatha/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/AkshayaRatha/Leetcode/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/AkshayaRatha/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
