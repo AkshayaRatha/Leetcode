@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/AkshayaRatha/Leetcode/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/AkshayaRatha/Leetcode/tree/master/0396-rotate-function) |
+| [0445-add-two-numbers-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshayaRatha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AkshayaRatha/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/AkshayaRatha/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/AkshayaRatha/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/AkshayaRatha/Leetcode/tree/master/0279-perfect-squares) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
