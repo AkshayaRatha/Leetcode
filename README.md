@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AkshayaRatha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/AkshayaRatha/Leetcode/tree/master/0396-rotate-function) |
+| [0494-target-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshayaRatha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/AkshayaRatha/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshayaRatha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/AkshayaRatha/Leetcode/tree/master/0396-rotate-function) |
+| [0494-target-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/AkshayaRatha/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AkshayaRatha/Leetcode/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/AkshayaRatha/Leetcode/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AkshayaRatha/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
