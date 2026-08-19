@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/AkshayaRatha/Leetcode/tree/master/0279-perfect-squares) |
+| [0371-sum-of-two-integers](https://github.com/AkshayaRatha/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/AkshayaRatha/Leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/AkshayaRatha/Leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/AkshayaRatha/Leetcode/tree/master/0441-arranging-coins) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/AkshayaRatha/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/AkshayaRatha/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
 |  |
 | ------- |
