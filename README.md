@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AkshayaRatha/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AkshayaRatha/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
+| [0394-decode-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/AkshayaRatha/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Interactive
 |  |
