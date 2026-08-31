@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AkshayaRatha/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/AkshayaRatha/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/AkshayaRatha/Leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/AkshayaRatha/Leetcode/tree/master/0917-reverse-only-letters) |
 ## Dynamic Programming
 |  |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/AkshayaRatha/Leetcode/tree/master/0692-top-k-frequent-words) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
