@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/AkshayaRatha/Leetcode/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/AkshayaRatha/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/AkshayaRatha/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/AkshayaRatha/Leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/AkshayaRatha/Leetcode/tree/master/0400-nth-digit) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AkshayaRatha/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/AkshayaRatha/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/AkshayaRatha/Leetcode/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0509-fibonacci-number) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AkshayaRatha/Leetcode/tree/master/0046-permutations) |
+| [0357-count-numbers-with-unique-digits](https://github.com/AkshayaRatha/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
