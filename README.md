@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/AkshayaRatha/Leetcode/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0137-single-number-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/AkshayaRatha/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AkshayaRatha/Leetcode/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AkshayaRatha/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
