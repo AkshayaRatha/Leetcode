@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/AkshayaRatha/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/AkshayaRatha/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkshayaRatha/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkshayaRatha/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Interactive
 |  |
 | ------- |
