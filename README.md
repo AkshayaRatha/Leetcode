@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AkshayaRatha/Leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/AkshayaRatha/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshayaRatha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AkshayaRatha/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/AkshayaRatha/Leetcode/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/AkshayaRatha/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/AkshayaRatha/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/AkshayaRatha/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/AkshayaRatha/Leetcode/tree/master/0709-to-lower-case) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AkshayaRatha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/AkshayaRatha/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/AkshayaRatha/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0917-reverse-only-letters](https://github.com/AkshayaRatha/Leetcode/tree/master/0917-reverse-only-letters) |
 ## Sorting
