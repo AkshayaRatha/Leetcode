@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AkshayaRatha/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/AkshayaRatha/Leetcode/tree/master/0396-rotate-function) |
+| [0491-non-decreasing-subsequences](https://github.com/AkshayaRatha/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshayaRatha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/AkshayaRatha/Leetcode/tree/master/0575-distribute-candies) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AkshayaRatha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0491-non-decreasing-subsequences](https://github.com/AkshayaRatha/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/AkshayaRatha/Leetcode/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/AkshayaRatha/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/AkshayaRatha/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -194,12 +196,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/AkshayaRatha/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0491-non-decreasing-subsequences](https://github.com/AkshayaRatha/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AkshayaRatha/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AkshayaRatha/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0491-non-decreasing-subsequences](https://github.com/AkshayaRatha/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
