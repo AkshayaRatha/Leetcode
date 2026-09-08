@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AkshayaRatha/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AkshayaRatha/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-transpose-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/AkshayaRatha/Leetcode/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/AkshayaRatha/Leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/AkshayaRatha/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AkshayaRatha/Leetcode/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/AkshayaRatha/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/AkshayaRatha/Leetcode/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
