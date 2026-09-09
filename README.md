@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkshayaRatha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkshayaRatha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkshayaRatha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AkshayaRatha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshayaRatha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1116-print-zero-even-odd](https://github.com/AkshayaRatha/Leetcode/tree/master/1116-print-zero-even-odd) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkshayaRatha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
