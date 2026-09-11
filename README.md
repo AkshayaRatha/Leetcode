@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AkshayaRatha/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkshayaRatha/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0079-word-search](https://github.com/AkshayaRatha/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/AkshayaRatha/Leetcode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AkshayaRatha/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshayaRatha/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AkshayaRatha/Leetcode/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/AkshayaRatha/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/AkshayaRatha/Leetcode/tree/master/0994-rotting-oranges) |
 ## Simulation
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AkshayaRatha/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/AkshayaRatha/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AkshayaRatha/Leetcode/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AkshayaRatha/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/AkshayaRatha/Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkshayaRatha/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AkshayaRatha/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
